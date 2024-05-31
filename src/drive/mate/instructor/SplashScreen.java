@@ -132,7 +132,7 @@ public class SplashScreen extends javax.swing.JFrame {
                 .addGap(36, 36, 36)
                 .addComponent(lbl)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jProgressBar, javax.swing.GroupLayout.DEFAULT_SIZE, 1, Short.MAX_VALUE))
+                .addComponent(jProgressBar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 352, Short.MAX_VALUE))
         );
