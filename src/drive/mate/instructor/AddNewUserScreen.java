@@ -4,10 +4,8 @@
  */
 package drive.mate.instructor;
 
-import java.awt.GridBagConstraints;
-import java.awt.GridBagLayout;
+
 import java.awt.Image;
-import java.awt.Insets;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
