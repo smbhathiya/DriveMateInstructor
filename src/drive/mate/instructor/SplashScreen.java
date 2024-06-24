@@ -30,7 +30,7 @@ public class SplashScreen extends javax.swing.JFrame {
             System.err.println("Failed to initialize FlatLaf");
         }
         
-        Image icon = new ImageIcon(this.getClass().getResource("/res/logo.png")).getImage();
+        Image icon = new ImageIcon(this.getClass().getResource("/res/DMI.png")).getImage();
         this.setIconImage(icon);
         
         ImageIcon logoIcon = new ImageIcon(this.getClass().getResource("/res/logo.png"));

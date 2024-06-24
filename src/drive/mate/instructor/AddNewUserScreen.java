@@ -25,7 +25,7 @@ public class AddNewUserScreen extends javax.swing.JFrame {
     public AddNewUserScreen() {
         initComponents();
 
-        Image icon = new ImageIcon(this.getClass().getResource("/res/logo.png")).getImage();
+        Image icon = new ImageIcon(this.getClass().getResource("/res/DMI.png")).getImage();
         this.setIconImage(icon);
 
         ImageIcon logoIcon = new ImageIcon(this.getClass().getResource("/res/logo.png"));
